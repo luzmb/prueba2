@@ -1,0 +1,52 @@
+nav{
+	position: absolute;
+	box-shadow: none;
+	z-index: 2;
+}
+a{
+	color: inherit!important;
+}
+nav li>a:hover{
+	background-color: #b71c1c!important;
+}
+#slogan{
+	position: relative;
+}
+#slogan>div{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+}
+#slogan a{
+	border: 1px solid #fff;
+	padding: 10px;
+
+}
+html, body{
+	height: 100%;
+}
+.valign-wrapper{
+	height: 100%;
+	margin: -7px;
+}
+.para{
+	height: 100%;
+}
+
+#contacto h5{
+	border: 1px solid #fff;
+	padding: 10px;
+}
+
+
+
+#contacto .valign-wrapper {
+  	height: 50vh;
+ }
+#contacto h5{
+	display: inline-block;
+}
+/*
+footer {
+	text-align: center
+}*/
